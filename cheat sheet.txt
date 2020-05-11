@@ -1,0 +1,26 @@
+Navigeren door de DOM
+document.body.innerHTML = "change the body"
+
+
+
+VS code JavaScript
+ctrl + / -> comment out code 
+shift + alt + A -> comment out code with Block comments
+ctrl + c + k -> comment out code
+ctrl + K + U
+alt + arrow up or down -> move selected code up or down 
+ctrl + Enter -> nieuwe regel
+
+
+
+PowerShell
+
+rmdir -Force [filename] -> delete file
+pijltje omhoog + Enter -> run script.js
+touch command for Powershell https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item?view=powershell-7
+touch -> New-Item
+
+.git
+ls -la voor windows is ls -dir
+ls -Force helpt om alle bestanden weer te geven 
+verborgen items tonen (in verkenner aanpassen)
