@@ -37,3 +37,9 @@ dropdown.children[2].addEventListener('click', changeToPurple)
 dropdown.children[3].addEventListener('click', changeToBlue)
 dropdown.children[4].addEventListener('click', changeToBlack)
 
+dropdown.children[0].addEventListener('click', changeToPink)
+dropdown.children[1].addEventListener('click', changeToRed)
+dropdown.children[2].addEventListener('click', changeToPurple)
+dropdown.children[3].addEventListener('click', changeToBlue)
+dropdown.children[4].addEventListener('click', changeToBlack)
+
